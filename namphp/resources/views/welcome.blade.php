@@ -1,1 +1,1 @@
-nam ngu
+<echo ?> nam sieu ngu</echo>
